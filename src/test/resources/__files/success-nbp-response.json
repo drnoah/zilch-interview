@@ -1,0 +1,13 @@
+{
+  "table": "C",
+  "currency": "funt szterling",
+  "code": "GBP",
+  "rates": [
+    {
+      "no": "023/C/NBP/2020",
+      "effectiveDate": "2020-02-04",
+      "bid": 5.0150,
+      "ask": 5.1164
+    }
+  ]
+}
